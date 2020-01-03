@@ -663,19 +663,19 @@
             },
         });
 
-        // 영화차트 이미지 슬라이즈
+        // 영화차트 이미지 슬라이드
 
         var mySwiper = new Swiper ('.swiper-container2', {
             slidesPerView: 4,
             spaceBetween: 24,
-            mousewheel: {
+            mousewheel: {   // 마우스 휠로 스와이프
                 invert: true,
             },
-            keyboard: {
+            keyboard: { // 키보드로 스와이프
                 enabled: true,
                 onlyInViewport: false,
             },
-            autoplay: {
+            autoplay: { // 6초마다 자동으로 스와이프
                 delay: 6000,
             },
         });
