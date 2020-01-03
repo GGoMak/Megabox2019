@@ -9,4 +9,4 @@ https://github.com/webstoryboy/megabox2019
 20.01.03 http://ggomak.dothome.co.kr/mega/index03.html : 배너 영역  
 20.01.03 http://ggomak.dothome.co.kr/mega/index04.html : 반응형 헤더 - 모바일 메뉴  
 20.01.03 http://ggomak.dothome.co.kr/mega/index05.html : Swiper.js  
-20.01.03 http://ggomak.dothome.co.kr/mega/index06.html : 반응형 
+20.01.03 http://ggomak.dothome.co.kr/mega/index06.html : 반응형 배너
