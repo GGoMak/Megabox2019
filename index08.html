@@ -111,23 +111,23 @@
                 <div class="swiper-slide ss1">
                     <div class="container">
                         <div class="row">
-                            <h2>캡틴 마블 <em>Captain Marvel</em></h2>
-                            <p>새로운 히어로, 어벤져스의 희망</p>
+                            <h2>천문: 하늘에 묻는다<em>Forbidden Dream</em></h2>
+                            <p>조선의 두 천재, 세종대왕과 장영실</p>
                         </div>
                     </div>
                 </div>
                 <div class="swiper-slide ss2">
                     <div class="container">
                         <div class="row">
-                            <h2>캡틴 마블 <em>Captain Marvel</em></h2>
-                            <p>새로운 히어로, 어벤져스의 희망</p>
+                            <h2>베를린 필하모닉<em>Gala from Berlin 2019</em></h2>
+                            <p>베를린 필하모닉과 새로운 상임지휘자가 전하는 새해 인사</p>
                         </div>
                     </div>
                 </div>
                 <div class="swiper-slide ss3">
                     <div class="container">
                         <div class="row">
-                            <h2>캡틴 마블 <em>Captain Marvel</em></h2>
+                            <h2>캡틴 마블<em>Captain Marvel</em></h2>
                             <p>새로운 히어로, 어벤져스의 희망</p>
                         </div>
                     </div>
@@ -490,9 +490,9 @@
             e.preventDefault();
             var target = $(this);
             var index = target.index();
-            movBtn.removeClass("active");
+            movBtn.removeClass("active");   // 차트 탭 클릭 시 active 변경
             target.addClass("active");
-            movCont.css("display", "none");
+            movCont.css("display", "none"); // 차트 탭 변경
             movCont.eq(index).css("display", "block");
         });
 
