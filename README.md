@@ -8,6 +8,9 @@
   - 각 구현 내용 확인은 아래 주소 형식으로 접속 가능  
 <pre><code>http://ggomak.dothome.co.kr/mega/index{번호}.html</code></pre>
 
+  - 완성본 접속 주소
+<pre><code>http://ggomak.dothome.co.kr/mega/index.html</code></pre>
+
 
 ## 기타
 
