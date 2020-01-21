@@ -10,6 +10,3 @@
 
   - 완성본 접속 주소
 <pre><code>http://ggomak.dothome.co.kr/mega/index.html</code></pre>
-
-
-## 기타
