@@ -1,7 +1,7 @@
 # 메가박스 사이트 만들기
 
-  - https://wtss.tistory.com/  
-  - https://github.com/webstoryboy/megabox2019
+  - 강의 : https://wtss.tistory.com/  
+  - 원본 : https://github.com/webstoryboy/megabox2019
 
 ## URL
 
